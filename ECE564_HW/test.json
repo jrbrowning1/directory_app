@@ -1,0 +1,27 @@
+{
+  "id" : "jrb127"
+  "netid" : "jrb127",
+  "firstname" : "Jonathan",
+  "lastname" : "Browning",
+  "wherefrom" : "Lexington, KY",
+  "gender" : "Male",
+  "role" : "Student",
+  "degree" : "BS",
+  "team" : "NA",
+  "hobbies" : [
+    "music",
+    "reading",
+    "tennis"
+  ],
+  "languages" : [
+    "Java",
+    "Javascript",
+    "Python"
+  ],
+  
+
+
+
+  "department" : "NA",
+
+}
